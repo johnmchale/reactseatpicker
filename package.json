@@ -1,5 +1,6 @@
 {
   "name": "reactseatpicker",
+  "homepage": "https://johnmchale.github.io/reactseatpicker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
